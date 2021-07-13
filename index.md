@@ -15,3 +15,8 @@ If you have any questions or just want to say hi, feel free to reach out using o
 
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-0c504f60-12fe-443d-b131-78a0e62a590f"></div>
+<style type="text/css">
+.eapps-link {
+    opacity: 0 !important;
+}
+</style>
