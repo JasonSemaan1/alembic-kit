@@ -1,6 +1,6 @@
 ---
 title: About me
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://lh3.googleusercontent.com/Tw9W395opYGaATeqXQoxmGPzxDbXem6EQBc114c4rX3DtsJk6E0kiCdE2PLHmTmP-RCbffevE1_iFaCpUtFyKQ-zE8mClXuu-5MHBk_xKWxQNv5H8lgZZwC_iTFWONMwQmR598o-9w=w2400"
 feature_text: |
   ## Hi, I'm Jason and I like turning 📈 into 💎
 ---
