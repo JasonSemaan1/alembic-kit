@@ -12,3 +12,5 @@ I'm interested in data and how it can help us in our day to day; whether its fin
 This website serves as a portfolio to track my development while also storing some personal projects I complete in my spare time.
 
 If you have any questions or just want to say hi, feel free to reach out using one of the links below.
+
+<div class="powr-social-media-buttons" id="435474df_1626158950"></div><script src="https://www.powr.io/powr.js?platform=netlify"></script>
